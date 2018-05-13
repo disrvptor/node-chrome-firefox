@@ -7,9 +7,9 @@ This is a fork of Atlassian's https://bitbucket.org/atlassian/docker-node-chrome
 This Dockerfile contains:
 
 * SCM tools
-* Node 6.x
-* Google Chrome latest
-* Firefox ESR latest
+* Node 9.x (9.11.1)
+* Google Chrome latest (66.0.3359.170)
+* Firefox ESR latest (52.8.0)
 * Bzip2 (for PhantomJS install)
 
 ## How to build the image

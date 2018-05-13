@@ -1,4 +1,4 @@
-FROM node:9
+FROM node:9.11.1
 
 ENV CHROME_BIN /usr/bin/google-chrome
 ENV FIREFOX_BIN /usr/bin/firefox
